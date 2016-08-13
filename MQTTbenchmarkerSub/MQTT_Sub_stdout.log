@@ -1,0 +1,10 @@
+
+Loop No. 1
+Setting up subscription clients .......................
+Waiting for sub clients to contact broker ...
+Press <Enter> when ready to get loop 1 results
+Messages successfully sent from pubClient to subClient via MQTT 100.0%
+Average time for loop 1 : 1188ms
+
+================================
+Total Average time for all 1 loops : 1188ms
